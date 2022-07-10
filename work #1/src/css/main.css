@@ -1,6 +1,6 @@
 body {
   background: #a2e7f0;
-  height: 100vh;
+  margin: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -15,5 +15,53 @@ body {
 .container {
   background: #ffffff;
   width: 1600px;
+}
+
+.containerSection {
+  padding: 0 80px;
+}
+
+.px15 {
+  font-size: 15px;
+}
+
+.px18 {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 55px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.textWhite {
+  color: #ffffff;
+}
+
+.textBlack {
+  color: #061e37;
+}
+
+.textGray {
+  color: #b0bec5;
+}
+
+.backgroundBlue {
+  background: url(../img/background1.png);
+}
+
+.backgroundBlack {
+  background: #061e37;
 }
 /*# sourceMappingURL=main.css.map */
