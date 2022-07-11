@@ -64,4 +64,54 @@ h4 {
 .backgroundBlack {
   background: #061e37;
 }
+
+.backgroundBlockFirst {
+  background: #80d8ff;
+}
+
+.backgroundBlockSecond {
+  background: #82b1ff;
+}
+
+.backgroundBlockThird {
+  background: #b388ff;
+}
+
+.backgroundBlockFourth {
+  background: #ea80fc;
+}
+
+.fontsRalewayBold {
+  font-family: RalewayBold;
+}
+
+.fontsRalewayExtraBold {
+  font-family: RalewayExtraBold;
+}
+
+.fontsRalewayMedium {
+  font-family: RalewayMedium;
+}
+
+.fontsRalewayRegular {
+  font-family: RalewayRegular;
+}
+
+.fontsRalewaySemiBold {
+  font-family: RalewaySemiBold;
+}
+
+.headerLogin {
+  border: 1px solid #fff;
+  border-radius: 5px;
+  background: transparent;
+  padding: 6px 20px;
+}
+
+.headerBtnFirst {
+  border: 1px solid #061e37;
+  border-radius: 5px;
+  padding: 10px 40px;
+  background: #061e37;
+}
 /*# sourceMappingURL=main.css.map */
